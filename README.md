@@ -11,7 +11,4 @@ A script to follow people by suggestions or a page followers on instagram
 
 4.Click the option you want and let the bot do the rest.
 
-#Problems
-
-Need to stop the created threads.
 
